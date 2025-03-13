@@ -12,3 +12,5 @@ A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
 - The game announces the winner or a draw.
 - Click the "Restart" button to play again.
 
+## 🌐 Live Demo
+[Click here to play](https://shwetakalgapure.github.io/Tic-Tac-Toe/)
